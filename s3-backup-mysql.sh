@@ -14,7 +14,7 @@ LOCAL_BACKUP_DIR="/backup"
  
 # Set s3 bucket name and directory path
 S3_BUCKET_NAME="s3-bucket-name"
-S3_BUCKET_PATH="backups"
+S3_BUCKET_PATH="backup"
  
 # Number of days to store local backup files
 BACKUP_RETAIN_DAYS=10
